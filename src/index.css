@@ -1,0 +1,26 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+/* global rules */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+/* .container {
+  margin: 0 auto;
+}
+
+.h-100 {
+  height: 100vh;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+.register {
+  height: 100vh;
+}
