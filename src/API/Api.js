@@ -1,4 +1,4 @@
-export const baseURL = `https://e-commerce-backend-production-bb4c.up.railway.app/api`;
+export const baseURL = `https://e-commerce-backend-production-00be.up.railway.app/api`;
 
 export const REGISTER = "register";
 
